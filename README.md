@@ -12,10 +12,10 @@ Software developer with over 5 years of experience in full stack, frontend, and 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/eliecergarcia"><img src="https://github-readme-stats.vercel.app/api?username=eliecergarcia&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eliecergarcia's GitHub stats" /></a>
-<a href="http://www.github.com/eliecergarcia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eliecergarcia&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/absagarcia"><img src="https://github-readme-stats.vercel.app/api?username=absagarcia&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Absa Garcia's GitHub stats" /></a>
+<a href="https://github.com/absagarcia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=absagarcia&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/eliecergarcia"><img src="https://activity-graph.herokuapp.com/graph?username=eliecergarcia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/eliecergarcia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliecergarcia&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/absagarcia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absagarcia&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/eliecerabsalongarcia"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
